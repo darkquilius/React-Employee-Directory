@@ -1,5 +1,6 @@
 {
     "name": "react-employee-directory",
+    "homepage": "https://darkquilius.github.com/employee-directory-react",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
